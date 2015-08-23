@@ -1,5 +1,5 @@
 
-  The script run_analysis.R performs the 5 procedures requested in the course project.
+  The script run_analysis.R performs the 5 procedures requested in the course project:
 
 Files are read using read.table() funtion.
 
@@ -16,7 +16,8 @@ ddply() from the plyr package is used to apply colMeans().
 A new dataset with all the average measures is generated and called tidydata.txt.
 
 
-  Variables
+
+  Variables:
 
 xTrain, yTrain, xTest, yTest, subTrain and subTest contain the data from files.
 
